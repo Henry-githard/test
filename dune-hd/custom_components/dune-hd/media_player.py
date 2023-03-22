@@ -31,7 +31,7 @@ PLATFORM_SCHEMA = PLATFORM_SCHEMA.extend(
         vol.Optional(CONF_NAME, default=DEFAULT_NAME): cv.string,
     }
 )
-
+#11111
 DUNEHD_PLAYER_SUPPORT = (
         SUPPORT_PAUSE
         # | SUPPORT_TURN_ON
